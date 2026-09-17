@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto:  "A remoção de animais frugívoros pela caça ilegal prejudica a dispersão de sementes, afetando diretamente a regeneração natural das florestas.",
-                afirmacao: "VA redução de animais frugívoros impede a dispersão natural de sementes, bloqueando a reprodução das árvores e comprometendo o futuro da floresta."
+                afirmacao: "A redução de animais frugívoros impede a dispersão natural de sementes, bloqueando a reprodução das árvores e comprometendo o futuro da floresta."
             }    
            
         ]
