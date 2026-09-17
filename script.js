@@ -6,46 +6,46 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Como a caça ilegal afeta o equilíbrio das cadeias alimentares e a preservação de espécies ameaçadas de extinção nas florestas tropicais?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "A caça ilegal compromete a biodiversidade ao reduzir drasticamente as populações de espécies-chave, o que pode levar ao colapso de ecossistemas inteiros.",
+                afirmacao: "A remoção de predadores e espécies-chave quebra o controle populacional da fauna local, desequilibrando a cadeia alimentar e ameaçando o colapso do ecossistema."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "A remoção de animais frugívoros pela caça ilegal prejudica a dispersão de sementes, afetando diretamente a regeneração natural das florestas.",
+                afirmacao: "VA redução de animais frugívoros impede a dispersão natural de sementes, bloqueando a reprodução das árvores e comprometendo o futuro da floresta."
             }    
            
         ]
     },
     {
        
-            enunciado: "As fontes renováveis de energia são aquelas formas de produção de energia em que suas fontes são capazes de manter-se disponíveis durante um longo prazo, contando com recursos que se regeneram ou que se mantêm ativos permanentemente. Com base nisso, temos a energia geotérmica, que consiste em utilizar o calor manifestado em áreas próximas à superfície. Qual a sua opinião sobre esse modelo de energia renovável?",
+            enunciado: "Quais das opções a seguir apresentam formas reais pelas quais a caça ilegal afeta o meio ambiente e as comunidades locais?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Provoca a alteração da estrutura vegetal da floresta ao diminuir o consumo e o pisoteio natural de herbívoros.",
+                    afirmacao: "A escassez de herbívoros modifica a densidade do solo e a competição entre plantas, alterando toda a composição e a estrutura da vegetação local."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Alimenta redes do crime organizado transnacional, enfraquecendo a segurança e a governança nas regiões afetadas. ",
+                    afirmacao: "O comércio ilícito de fauna financia redes criminosas globais, promovendo a corrupção, a violência e a instabilidade econômica em comunidades vulneráveis."
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "De que maneiras a perda de animais frugívoros devido à caça afeta a estrutura e a saúde das florestas tropicais?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Diminui a diversidade de plantas nativas, pois sementes grandes deixam de ser transportadas para novas áreas.",
+                    afirmacao: "Sem grandes frugívoros para dispersar sementes pesadas, as espécies de árvores de grande porte não se reproduzem longe da planta-mãe. Isso reduz a diversidade genética e compromete o surgimento de novas gerações dessas árvores na floresta."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Altera a composição da vegetação, favorecendo a proliferação de plantas com sementes menores ou dispersas pelo vento.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "A ausência de grandes animais abre espaço para a proliferação de plantas oportunistas ou de sementes leves. Com o tempo, a floresta perde sua estrutura original e diminui sua capacidade de estocar carbono."
                 }    
                
             ]
